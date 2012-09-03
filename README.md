@@ -1,4 +1,4 @@
 AreWeAtRisk
 ===========
 
-Source for http://areweatrisk.org
+Source for http://stanfordrosenthal.com/AreWeAtRisk/
